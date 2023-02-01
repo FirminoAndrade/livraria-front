@@ -1,0 +1,29 @@
+form {
+    text-align: center;
+    width: 70%;
+    margin: 2rem auto 0 auto;
+}
+
+h1 {
+    margin-right: 10rem;
+    font-size: 2rem;
+    margin-bottom: 3rem;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.form {
+    width: 100%;
+}
+
+.buttons{
+    width: 100%;
+    text-align: start;
+}
+
+button {
+    margin-right: 2rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+}

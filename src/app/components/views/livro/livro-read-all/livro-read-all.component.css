@@ -1,0 +1,19 @@
+.content {
+    width: 90%;
+    margin: 1.4rem auto auto auto;
+}
+
+.title{
+    text-align: center;
+    margin-right: 10rem;
+}
+
+.title h1 {
+    font-size: 2rem;
+    margin-bottom: 3rem;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
